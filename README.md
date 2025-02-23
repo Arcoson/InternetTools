@@ -2,13 +2,6 @@
 
 A powerful command-line network monitoring tool that provides detailed information about your network interfaces, internet speed, and real-time traffic statistics.
 
-## Features
-
-- Network interface information (IP, netmask, broadcast address)
-- Internet speed testing (download, upload, ping)
-- Real-time network traffic monitoring
-- Beautiful CLI interface with colored output
-
 ## Installation
 
 1. Clone the repository:
@@ -67,11 +60,3 @@ Press Ctrl+C to stop monitoring.
 ## License
 
 MIT License
-
-## Contributing
-
-1. Fork the repository
-2. Create a feature branch
-3. Commit your changes
-4. Push to the branch
-5. Create a Pull Request
